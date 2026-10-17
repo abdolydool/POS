@@ -1,0 +1,6 @@
+{
+  "name": "SuperScan Express - Register Simulator",
+  "description": "Tactile supermarket cash register roleplay simulator with interactive laser scanner, produce scale, PLU code keypad, POS calculator, and full card payment terminal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
